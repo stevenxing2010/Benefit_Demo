@@ -1,7 +1,14 @@
-
-setwd("C:/Users/xux67/Downloads") #change directory accordingly
+#Created by Xueyi Xing, Jan, 2019
+#Save this file with other datasets in the same folder
+#Set working directory
+#CAUTION: SOURCE following five lines first, DO NOT use RUN!!!
 #clean memories
 rm(list=ls())
+mydir <-dirname(parent.frame(2)$ofile)
+setwd(mydir)
+stop( "You already changed your working directory. Please disregard the error message and continue to run the rest codes. :)")
+########################################
+
 
 #read raw data extracted using outpatient event label filter (colonoscopy/upper GI endoscopy) from the portal
 uoel<-read.csv("EndoscopyOEL110718newwithageid.csv", stringsAsFactors=F)
