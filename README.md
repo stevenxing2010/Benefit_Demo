@@ -7,4 +7,4 @@ Hospitals report the claims to the insurers in different ways. For example, Penn
 
 
 One outcome plot example is 
-![Example](/Some%20diagnoses%20and%20costs%201217.jpg)
+![Example](/ponkmon.jpg)
