@@ -11,4 +11,5 @@ One outcome plot example is
 
 
 ![Top_providers_imaging](https://user-images.githubusercontent.com/21266752/66928200-04ef4780-efff-11e9-8cf3-abe670089ed3.jpg)
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/r1in0YNetG8/maxresdefault.jpg)](https://www.youtube.com/watch?v=r1in0YNetG8)
+https://www.youtube.com/watch?v=r1in0YNetG8
